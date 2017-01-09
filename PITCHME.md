@@ -9,7 +9,7 @@
 
 # Who is is this presentation for?
 
-- Me a year and a half ago.
+- Me a year and a half ago. <!-- .element: class="fragment" -->
 
 
 #HSLIDE
@@ -19,7 +19,7 @@
 
 #VSLIDE
 
-- Can't buy five units of devops.
+- Can't buy five units of devops. 
 - Case studies are a great way to figure out how to do devops.
 - Lack of information about how smaller companies do devops.
 
