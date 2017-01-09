@@ -67,7 +67,7 @@
 
 #### Scenario 1: 
 ## Get people to communicate more.
-##### I mean, how hard can this be right....
+##### I mean, how hard can this be right...
 
 
 #VSLIDE
@@ -99,3 +99,11 @@
 - Install slack desktop client on their machines as part of an introduction. <!-- .element: class="fragment" -->
 - All emails are responded with: "Check Slack". <!-- .element: class="fragment" -->
 - All direct messages are replied to in the channels. <!-- .element: class="fragment" -->
+
+
+
+#HSLIDE
+
+#### Scenario 2: 
+## How to fail at CI/CD
+##### How hard can good, fast and cheap be.
