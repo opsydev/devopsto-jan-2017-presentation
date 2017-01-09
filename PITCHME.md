@@ -28,9 +28,10 @@
 
 ## Overview of what we'll be talking about:
 
-- Overview of kind of work we do <!-- .element: class="fragment" -->
-- Technological challenges we faced
-- Cultural challenges we faced
+<!-- .element: class="fragment" -->
+  - Overview of kind of work we do 
+  - Technological challenges we faced
+  - Cultural challenges we faced
 
 
 #HSLIDE
