@@ -19,16 +19,16 @@
 
 #VSLIDE
 
-- Can't buy five units of devops. 
-- Case studies are a great way to figure out how to do devops.
-- Lack of information about how smaller companies do devops.
+- Can't buy five units of devops. <!-- .element: class="fragment" -->
+- Case studies are a great way to figure out how to do devops. <!-- .element: class="fragment" -->
+- Lack of information about how smaller companies do devops. <!-- .element: class="fragment" -->
 
 
 #HSLIDE
 
 ## Overview of what we'll be talking about:
 
-- Overview of kind of work we do
+- Overview of kind of work we do <!-- .element: class="fragment" -->
 - Technological challenges we faced
 - Cultural challenges we faced
 
@@ -37,9 +37,9 @@
 
 ## Setting the stage:
 
-- Consulting firm specializing in public sector.
-- Application maintenance and support work.
-- Multiple clients, multiple projects and multiple messes.
+- Consulting firm specializing in public sector.  <!-- .element: class="fragment" -->
+- Application maintenance and support work. <!-- .element: class="fragment" -->
+- Multiple clients, multiple projects and multiple messes. <!-- .element: class="fragment" -->
 
 
 #VSLIDE
