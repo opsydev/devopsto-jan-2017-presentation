@@ -65,8 +65,9 @@
 
 #HSLIDE
 
-# Scenario 1: Get people to communicate more.
-### I mean, how hard can this be right....
+#### Scenario 1: 
+## Get people to communicate more.
+##### I mean, how hard can this be right....
 
 
 #VSLIDE
