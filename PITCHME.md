@@ -48,7 +48,7 @@
 
 ## Technological challenges:
 
-- We __don't__ do operations. <!-- .element: class="fragment" -->
+- We don't do operations. <!-- .element: class="fragment" -->
 - In most cases throwing over the wall is our only option. <!-- .element: class="fragment" -->
 - No in-house expertize regarding ops. <!-- .element: class="fragment" -->
 - Microsoft  <!-- .element: class="fragment" -->
@@ -101,9 +101,18 @@
 - All direct messages are replied to in the channels. <!-- .element: class="fragment" -->
 
 
-
 #HSLIDE
 
 #### Scenario 2: 
 ## How to fail at CI/CD
 ##### How hard can good, fast and cheap be.
+
+
+#VSLIDE
+
+# Turns out really hard.
+
+
+#VSLIDE
+
+
