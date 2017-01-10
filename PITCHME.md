@@ -179,3 +179,8 @@
 - Encourage people to experiment but add time limits  <!-- .element: class="fragment" -->
 - Spend time on basics when doing hand offs.   <!-- .element: class="fragment" -->
 - Be a little bothersome.   <!-- .element: class="fragment" -->
+
+
+#HSLIDE
+
+# Thank you!
