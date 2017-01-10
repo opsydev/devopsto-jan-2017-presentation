@@ -14,7 +14,7 @@
 
 #HSLIDE
 
-# But seriously why are you all here?
+# But seriously why are we all here?
 
 
 #VSLIDE
@@ -110,9 +110,34 @@
 
 #VSLIDE
 
-# Turns out really hard.
+# Turns out it is surprisingly hard.
 
 
 #VSLIDE
 
+## Bottlenecks and showstoppers:
 
+- Time
+- Cost
+- Experience
+
+
+#VSLIDE
+
+## Cloud was a no-go:
+
+- Everyone needed admin access
+- Microsoft 
+- Left as is for indefinite periods of time
+
+
+#VSLIDE?image=assets/lack_rack.jpg
+
+
+#VSLIDE 
+
+## Why build our own:
+
+- Cheap(er)
+- HyperV: Lower learning curve
+- Microsoft Partner pack: Licensing is simple(r)
