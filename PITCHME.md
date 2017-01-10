@@ -28,11 +28,11 @@
 
 ## Overview of what we'll be talking about:
 
-- Overview of kind of work we do <!-- .element: class="fragment" -->
-- Technological challenges we faced <!-- .element: class="fragment" -->
-- Cultural challenges we faced <!-- .element: class="fragment" -->
-- Scenarios and lessons that we went through on our devops journey. <!-- .element: class="fragment" -->
-- Takeaways. <!-- .element: class="fragment" -->
+- Overview of kind of work Shore does <!-- .element: class="fragment" -->
+- Technological challenges <!-- .element: class="fragment" -->
+- Cultural challenges <!-- .element: class="fragment" -->
+- Scenarios <!-- .element: class="fragment" -->
+- Takeaways <!-- .element: class="fragment" -->
 
 
 #HSLIDE
@@ -115,7 +115,7 @@
 
 #VSLIDE
 
-## Bottlenecks and showstoppers:
+## Bottlenecks and show-stoppers:
 
 - Time
 - Cost
@@ -141,3 +141,41 @@
 - Cheap(er)
 - HyperV: Lower learning curve
 - Microsoft Partner pack: Licensing is simple(r)
+
+
+#VSLIDE 
+
+## Open Issue: Time
+
+- Every project is a snowflake <!-- .element: class="fragment" -->
+- Deadlines <!-- .element: class="fragment" -->
+
+
+#VSLIDE 
+
+# What does the business actually need!
+
+
+#VSLIDE
+
+## Just solve the biggest problem!
+
+- Reproducible builds  <!-- .element: class="fragment" -->
+- Re-run unit tests with fresh download of database <!-- .element: class="fragment" -->
+
+
+#VSLIDE
+
+## Restrict Access!
+
+- Identify important pieces and consider them as production systems.
+
+
+#HSLIDE
+
+## Takeaways
+
+- Identify business needs first!  <!-- .element: class="fragment" -->
+- Encourage people to experiment but add time limits  <!-- .element: class="fragment" -->
+- Spend time on basics when doing hand offs.   <!-- .element: class="fragment" -->
+- Be a little bothersome.   <!-- .element: class="fragment" -->
